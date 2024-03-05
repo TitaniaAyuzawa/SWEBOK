@@ -1,0 +1,14 @@
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\bin\Debug\net8.0\SWEBOK.exe
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\bin\Debug\net8.0\SWEBOK.deps.json
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\bin\Debug\net8.0\SWEBOK.runtimeconfig.json
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\bin\Debug\net8.0\SWEBOK.dll
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\bin\Debug\net8.0\SWEBOK.pdb
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.AssemblyInfoInputs.cache
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.AssemblyInfo.cs
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.csproj.CoreCompileInputs.cache
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.dll
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\refint\SWEBOK.dll
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.pdb
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\SWEBOK.genruntimeconfig.cache
+C:\Users\titan\source\repos\SWEBOK\SWEBOK\obj\Debug\net8.0\ref\SWEBOK.dll
